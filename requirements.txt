@@ -1,0 +1,4 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+# Optional: install openai to enable AI‑powered summarisation
+openai>=1.6.1

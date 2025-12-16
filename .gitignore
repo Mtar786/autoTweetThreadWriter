@@ -1,0 +1,17 @@
+# Byte‑compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Secrets
+.env
+
+# Editor folders
+.vscode/
+.idea/
+
+# Output files
+thread*.md
+thread*.txt
