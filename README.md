@@ -1,5 +1,6 @@
 # Auto‑Tweet Thread Writer
 
+
 The **Auto‑Tweet Thread Writer** is a utility that transforms long‑form content—such as blog posts or video pages—into a concise, engaging Twitter thread.  Given a URL, the tool fetches and summarises the content, then breaks the summary into a 10‑part thread complete with catchy hooks, numbered tweets, and emojis.  It optionally uses OpenAI to generate higher‑quality summaries and more natural phrasing.
 
 ## Features
